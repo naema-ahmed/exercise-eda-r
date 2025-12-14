@@ -16,4 +16,3 @@ src/ — R scripts
 
 report/ — PDF report
 
-plots/ — exported visualisations (optional)
