@@ -1,5 +1,5 @@
 # exercise-eda-r
-Exploratory Data Analysis of 973-observation exercise dataset using R (RStudio)
+Exploratory Data Analysis of 973-observation gym member exercise tracking dataset using R (RStudio)
 
 **Overview:**
 - Visualised distributions and relationships using histograms, boxplots, scatterplots, bar charts, and heatmaps
